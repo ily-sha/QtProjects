@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Burger_148.png</file>
+        <file>img/Burger_148.ico</file>
+    </qresource>
+</RCC>
